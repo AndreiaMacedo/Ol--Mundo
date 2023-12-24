@@ -13,8 +13,8 @@ Listas numeradas:
 
 1.Teste
 0. Teste 02
- 1. Teste 03
- 2. Teste 03
+   1. Teste 03
+   2. Teste 03
 1.Teste
 
 Lista demarcada:
@@ -27,7 +27,7 @@ Lista demarcada:
 
 Lista de Tarefas:
 
-- [] Criar a página principal
-- [x] Criar a página da loja
-- [] Call com o cliente...
-- [x] Etc...
+-[] Criar a página principal
+-[x] Criar a página da loja
+-[] Call com o cliente...
+-[x] Etc...
