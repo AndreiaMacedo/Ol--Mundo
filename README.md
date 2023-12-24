@@ -31,3 +31,11 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [ ] Call com o cliente...
 - [x] Etc...
+
+Tabela
+
+Num| Nome| Nota
+---|---|---
+1|Aline|8,5
+2|José|10
+3|Maria|20
