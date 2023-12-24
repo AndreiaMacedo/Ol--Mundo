@@ -39,3 +39,8 @@ Num| Nome| Nota
 1|Aline|8,5
 2|José|10
 3|Maria|20
+
+
+***
+
+Exemplo: Destacar Trecho de código `document.getElementByID()` 
