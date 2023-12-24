@@ -12,18 +12,18 @@ Podemos _*misturar*_ configurações.
 Listas numeradas:
 
 1.Teste
-2. Teste 02
-   1. Teste 03
-   2. Teste 03
-3.Teste
+2. Teste02
+    1. Teste03
+    2. Teste04
+    3.Teste05
 
 Lista demarcada:
 
-*Teste
-*Teste
-*Teste
     *Teste
-*Teste
+    *Teste
+    *Teste
+    *Teste
+    *Teste
 
 Lista de Tarefas:
 
