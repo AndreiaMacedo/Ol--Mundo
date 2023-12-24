@@ -12,10 +12,10 @@ Podemos _*misturar*_ configurações.
 Listas numeradas:
 
 1.Teste
-2. Teste02
-    1. Teste03
-    2. Teste04
-    3.Teste05
+4.Teste02
+1.Teste03
+2.Teste04
+3.Teste05
 
 Lista demarcada:
 
