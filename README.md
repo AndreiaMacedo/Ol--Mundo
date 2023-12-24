@@ -44,3 +44,14 @@ Num| Nome| Nota
 ***
 
 Exemplo: Destacar Trecho de código `document.getElementByID()` 
+
+
+Olha meu programa em Python
+
+```
+num = int(input('Digite um valor:'))
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else;
+    print(f'O valor {num} é Ímpar)
+```
